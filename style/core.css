@@ -104,6 +104,10 @@ body, p, div, ul, ol, li{
 	font-family: "myriad-pro", sans-serif !important;
 }
 
+.socialicon, .socialicon:visited {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
 @media screen and (max-width: 480px){
 	#fontpagecontent h2{
 		font-size: 1.1em;
